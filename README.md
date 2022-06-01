@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/101787968/171496597-78c64f44-058e-47c6-ac86-990fb606fe34.png)
 
 # Outputnya :
-![Screenshot (268)](https://user-images.githubusercontent.com/101787968/171497968-7acc50af-8e59-4360-8183-a2e9fa675a74.png)
+![image](https://user-images.githubusercontent.com/101787968/171499477-d124557b-b3b2-468e-90f1-79b136c67f99.png)
 
 # 3. Membuat Database Dari User Pasien :
 ![image](https://user-images.githubusercontent.com/101787968/171496688-0536995a-1f29-4170-ba40-3c1407422a60.png)
@@ -25,32 +25,32 @@
 ![image](https://user-images.githubusercontent.com/101787968/171496834-ecd08f72-38c1-4769-8e69-c3d1424beac3.png)
 
 # Outputnya :
-![Screenshot (273)](https://user-images.githubusercontent.com/101787968/171498111-31abc4db-fa4c-4f06-b821-0218a555c80e.png)
+![image](https://user-images.githubusercontent.com/101787968/171499684-69bd99d5-0a83-4aca-89a8-0f9913b4824e.png)
 
 # 5. Sebuah Database Dari Dokter :
 ![image](https://user-images.githubusercontent.com/101787968/171496902-1767f0e3-9e80-4499-841d-63b1ad9ab930.png)
 ![image](https://user-images.githubusercontent.com/101787968/171496920-99e682a2-7305-4ec1-93e5-7e4b84e69cf5.png)
 
 # Outputnya :
-![Screenshot (279)](https://user-images.githubusercontent.com/101787968/171498209-eff06e11-e368-4e2a-ba56-74dbfdeb03ba.png)
+![image](https://user-images.githubusercontent.com/101787968/171499824-bd151ec2-c4d3-4e04-bf31-72e80b338a2c.png)
 
 # 6. Sebuah Database Dari Berobat :
 ![image](https://user-images.githubusercontent.com/101787968/171496997-e478bed8-1b8d-433f-b61a-c8c6b455e1ae.png)
 ![image](https://user-images.githubusercontent.com/101787968/171497057-f693abf7-45f6-4aa8-8282-8969b5ba4fd4.png)
 
 # Outputnya :
-![Screenshot (282)](https://user-images.githubusercontent.com/101787968/171498274-f6d4f10c-d164-4d08-8c5b-5d487c6dd4a6.png)
+![image](https://user-images.githubusercontent.com/101787968/171500067-2406cd8b-6747-41fa-af32-7ab6812a4df1.png)
 
 # 7. Sebuah Database Dari Resep Obat :
 ![image](https://user-images.githubusercontent.com/101787968/171497141-31ae3d7a-2c97-479a-8e2c-6ce09b9ad2ab.png)
 ![image](https://user-images.githubusercontent.com/101787968/171497161-09849ebb-5268-4c62-866d-becc2af7797b.png)
 
 # Outputnya :
-![Screenshot (286)](https://user-images.githubusercontent.com/101787968/171498356-f6fa11bb-caf0-4f4b-824d-43fc7eb87537.png)
+![image](https://user-images.githubusercontent.com/101787968/171500131-93f293cb-b531-4a1c-8a1d-c0b39800acbe.png)
 
 # 8. Sebuah Database Dari Obat :
 ![image](https://user-images.githubusercontent.com/101787968/171497219-71f6a68f-2dfc-4139-bbd3-e1daf468366b.png)
 ![image](https://user-images.githubusercontent.com/101787968/171497232-c6bda2f5-e09e-4e64-95b4-420975df6816.png)
 
 # Outputnya :
-![Screenshot (289)](https://user-images.githubusercontent.com/101787968/171498419-58dbf8c1-c7a6-4707-931a-33793acfd723.png)
+![image](https://user-images.githubusercontent.com/101787968/171500190-d8d00c98-ebc3-4d9d-9855-0a749e68d201.png)
