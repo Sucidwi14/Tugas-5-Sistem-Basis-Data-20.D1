@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/101787968/171496741-817ae01b-1434-41fe-83d8-312a3d6af670.png)
 
 # Outputnya :
-![Screenshot (272)](https://user-images.githubusercontent.com/101787968/171498077-b9ea7a83-fe90-4001-864c-38984c70f051.png)
+![image](https://user-images.githubusercontent.com/101787968/171499281-2d6367c3-d45a-4909-b708-5e4c985908d3.png)
 
 # 4. Sebuah Database Dari Pasien :
 ![image](https://user-images.githubusercontent.com/101787968/11496809-ffd6efa2-2d0f-4e59-8b46-bc92b0fbb01d.png)
